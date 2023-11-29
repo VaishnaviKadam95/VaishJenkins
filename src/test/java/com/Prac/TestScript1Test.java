@@ -14,6 +14,11 @@ public void ts2() {
 	@Test
 public void ts3() {
 	System.out.println("=TS 3===");
+	
+	
+	
+	
+	
 }
 	
 }

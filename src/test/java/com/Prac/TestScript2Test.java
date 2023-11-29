@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class TestScript2Test {
 	public class TestScript1Test {
-		@Test(groups="smoke")
+		@Test
 	public void ts1() {
 		System.out.println("==TestScript 1===");
 	}
